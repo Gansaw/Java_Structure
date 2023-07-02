@@ -10,7 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequired
 + [Eclipse IDE for Enterprise Java and Web Developers](https://www.eclipse.org/downloads/packages/release/2023-03/r/eclipse-ide-enterprise-java-and-web-developers) (2023.03 ver)
-+ [JDK17](https://www.oracle.com/kr/java/technologies/downloads/#java17)
++ [JDK-17](https://www.oracle.com/kr/java/technologies/downloads/#java17)
 
 ### License
 이 프로젝트는 MIT 라이선스가 적용되고 있습니다. 세부사항은 LICENSE.md를 참고하세요.
